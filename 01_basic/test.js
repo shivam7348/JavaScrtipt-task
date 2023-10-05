@@ -1,1 +1,1 @@
-console.log("shivam");
+console.log(typeof "Hitesh"); 
